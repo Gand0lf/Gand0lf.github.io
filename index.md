@@ -1,7 +1,8 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+# The journey begins, at last.
 
-![Image of fast.ai logo](images/logo.png)
+![a_journey](images/aragonian_mountains.jpeg)
 
-## This is a title
+## Intro
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+As a bank employee by profession, economist by education yet cooking hedonist at heart, life has done it's best at throwing me the occasional bone to get started coding. With a tendency to delve into any kind of editor, modular setup (yes, Lego) or *???* one might claim I should have seen it coming. 
+
