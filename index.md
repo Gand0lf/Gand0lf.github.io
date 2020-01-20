@@ -1,6 +1,6 @@
-# The journey begins, at last.
+# The Journey begins, at last
 
-![a_journey](images/aragonian_mountains.jpeg)
+![a_journey](images/aragonian_mountains.jpg)
 
 ## Intro
 
