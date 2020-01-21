@@ -4,8 +4,8 @@
 
 ## Intro
 
-Frankly, life has done it's best at throwing me the occasional bone to get started coding. With a tendency to delve into any kind of editor, modular setup (yes, maybe Lego) and videogames one might claim I should have seen it coming. Well, I haven't.
+No, it's not a travel blog. Compared to my peers I am a moderate traveller at best. This blog attempts to syntesize the stages of my ongoing journey to pick up some coding, experiment with some cooking and exploring the (in my case late) twenties.
 
-A banker by profession and economist by education I am, at heart, a nerdy hobby cook, trying to find a way through the thicket that is life. Only recently, I found that coding and in particular following the open source pilgrim's path not only helps to get too bored at work but truly adds value to the people around you in many ways.
+Frankly I'm late. Life has done it's best at throwing me the occasional bone to get started coding. Endowed with a tendency to delve into any kind of editor, modular setup (yes, maybe Lego) or videogames, one might say I should have read the bone patterns quicker and simply see that coding might be for me. Well, I haven't until fairly recently: I found that coding, and in particular following the open source pilgrim's path not only me from being too bored at work but truly has the potential to also add value to the people around you in many ways you might not think of at first.
 
-This blog merely intents to describe the stages of this ongoing journey.
+A banker by profession and economist by education I am, at heart, a nerdy hobby cook, trying to figure a way through the thicket that is life. Exuberant words aside, I also want to use this blog as a place to collect my experience with food. This is because I am too lazy to set up a separate page and like the two topics equally <3.
