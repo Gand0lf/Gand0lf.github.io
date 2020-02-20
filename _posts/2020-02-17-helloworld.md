@@ -1,5 +1,4 @@
-A few words and resources on vim and tmux
------
+# A few words and resources on vim and tmux
 
 This post is a brief *summary* of resources and of my experiences rather than an introduction to vim. For posts on learning standard key bindings etc. I encourage you to do a websearch on *learning vim* and check out the links in the next section.
 
@@ -25,7 +24,7 @@ A collection of resources I found useful
 * A good overview of terminals etc. can be found [here](https://www.youtube.com/watch?v=hMSByvFHOro&list=LLxzAw-fwRfGuwWYB0tyi-_w&index=4&t=0s) (forgive me should I still mix things up from time to time).
 * Vim and tabs [here](https://vim.fandom.com/wiki/Using_tab_pages)
 * Blogpost on tmux [here](https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)
-* There are quite a few cheatsheets on both vim and tmux which can be found via web search.
+* There are cheatsheets on both vim and tmux which can be found via web search.
 
 
 
