@@ -1,11 +1,7 @@
-# A few words and resources on vim and tmux
-
-1. TOC
-{:toc}
+A few words and resources on vim and tmux
+-----
 
 This post is a brief *summary* of resources and of my experiences rather than an introduction to vim. For posts on learning standard key bindings etc. I encourage you to do a websearch on *learning vim* and check out the links in the next section.
-
-## A short note on my vim+tmux setup
 
 It must have been around 3 years, when I first saw a former classmate of mine using *emacs*. The speed at which code was edited in his terminal was breath taking. An economist by education I spent the better part of my productive time in IDEs such as Matlab, R-Studio and STATA.
 
@@ -22,7 +18,9 @@ There are many .vimrc files out there. In addition here is mine: [.vimrc](https:
 The repository contains a quick installation guide which should allow you to setup vim relatively quickly. You will also find a link to a maybe flashy but in my opinion pretty tmux layout.
 
 
-## A collection of resources I found useful
+A collection of resources I found useful
+------
+
 * A good introductory article on vim+python can be found [here](https://realpython.com/vim-and-python-a-match-made-in-heaven/).
 * A good overview of terminals etc. can be found [here](https://www.youtube.com/watch?v=hMSByvFHOro&list=LLxzAw-fwRfGuwWYB0tyi-_w&index=4&t=0s) (forgive me should I still mix things up from time to time).
 * Vim and tabs [here](https://vim.fandom.com/wiki/Using_tab_pages)
