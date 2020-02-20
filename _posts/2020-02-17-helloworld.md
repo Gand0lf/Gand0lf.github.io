@@ -1,4 +1,4 @@
-# A few words on resources on vim and tmux
+# A few words and resources on vim and tmux
 
 1. TOC
 {:toc}
