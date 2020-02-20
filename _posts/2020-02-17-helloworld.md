@@ -31,21 +31,5 @@ The repository contains a quick installation guide which should allow you to set
 
 
 
-## Code
-
-General preformatted text:
-
-    # Do a thing
-    do_thing()
-
-Python code and output:
-
-```python
-# Prints '2'
-print(1+1)
-```
-
-
-
 [^1]: In python I work in jupyter+vim (using autoreload 2 cell magic and setup.py + pip -e installed package) or PyCharm. In Java I resort to IntelliJ. 
 [^2]: 2019 course (part 1) lesson 4 [lecture link](https://youtu.be/qqt3aMPB81c?t=4631)
