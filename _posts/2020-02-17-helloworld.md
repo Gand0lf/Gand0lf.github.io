@@ -6,15 +6,15 @@ It must have been around 3 years, when I first saw a former classmate of mine us
 
 Fast forward to the end of 2019 when I finally got the chance to look into *VIM*[^1]. Why vim and not emacs you might ask? Ultimately I was inspired by fast.ai's course[^2].
 
-I first decided to setup VIM in combination with WSL(1) on my windows 10 machine and later on decided to setup a new ubuntu environment on my old laptop. I found the WSL to crash from time to time on my machine. From the beginning I intended to use a terminal multiplexer to combine the flexibility of vim but not give up on the IDE-like terminal or file tree views. Terminal multiplexers allow you to work with multiple terminal window like views and different work spaces or tabs within the same terminal. I chose to give [*tmux*](https://github.com/tmux/tmux) a shot and sticked with it. 
+I first decided to setup VIM in combination with WSL(1) on my windows 10 machine and later on moved to WSL2. Moreover, I use a terminal multiplexer which allows for an IDE-like experience. Terminal multiplexers allow you to work with multiple terminal window like views and different work spaces or tabs within the same terminal. I chose to give [*tmux*](https://github.com/tmux/tmux) a shot and sticked with it. 
 
-Arguably the most prominent feature of vim and it's derivatives is it's versatility. You can modify just about everything. From key bindings, scripts to backgroundcolors etc.
+Arguably the most prominent feature of vim and it's derivatives is it's versatility. You can modify just about anything, from key bindings, scripts to backgroundcolors etc.. This can be daunting at times.
 
-The key entry point to modify your vim is the .vimrc file which by default is located in your home directory (`cd ~`). If it doesn't exist create it (`touch .vimrc`) and start editing it (`vim .vimrc`).
+The key entry point to modify your vim is the .vimrc file which by default is located in your home directory (`cd ~/.vimrc`). If it doesn't exist create it (`touch ~/.vimrc`) and start editing it (`vim ~/.vimrc`).
 
-There are many .vimrc files out there. In addition here is mine: [.vimrc](https://github.com/Gand0lf/.vimrc)
+There are many .vimrc files out there. In addition here is the one I use: [.vimrc](https://github.com/Gand0lf/.vimrc)
 
-The repository contains a quick installation guide which should allow you to setup vim relatively quickly. You will also find a link to a maybe flashy but in my opinion pretty tmux layout.
+The repository contains a quick installation guide which should allow you to setup vim relatively quickly. 
 
 
 A collection of resources I found useful
